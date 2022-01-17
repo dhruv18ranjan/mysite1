@@ -1,0 +1,134 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+.heads {
+  font-size: 20px;
+}
+
+h1 {
+  margin: 40px auto 0 auto;
+  font-family: 'Sacramento';
+  font-size: 90px;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat';
+  color: #66BFBF;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.top {
+  background-color: #93FFD8;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.bottomcloud {
+  position: absolute;
+}
+hr{
+  border: dotted grey 6px;
+  width: 70px;
+  border-bottom: none;
+  margin: 70px auto;
+}
+.topcloud {
+  position: relative;
+  left: 210px;
+  top: 40px;
+}
+
+h3 {
+  color: #11999E;
+  font-weight: bold;
+}
+.middle{
+  background-color: #F2FFE9;
+  height: auto;
+  position: relative;
+  bottom: 70px;
+}
+.skillimg1{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.skill{
+  width: 50%;
+margin: 60px auto 60px auto;
+text-align: left;
+line-height: 2;
+}
+.skillimg2{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin-bottom: 30px;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.me{
+  margin-top: 20px;
+}
+.pk{
+  width: 30%;
+  margin: auto;
+  padding-bottom: 10px;
+  line-height: 2;
+}
+.contact-me{
+  margin: 50px auto;
+  width: 30%;
+}
+.footer-link{
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+.last{
+  background-color: #6FBFBF;
+  padding-bottom: 20px;
+  padding-top: 30px;
+}
+a{
+  margin: 10px 30px;
+  color: green;
+  text-decoration: none;
+}
+a:hover{
+  color: white;
+
+}
+.copyright{
+  color: white;
+  margin-top: 20px;
+}
